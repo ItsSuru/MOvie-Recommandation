@@ -8,6 +8,8 @@ recommandation system can also be made by using behaviour of the user such as ty
 
 
 The data set which is used here are given with the main py file, but it doesn't include the columns name, so I gave it the names.
+
+ ## It is a Item similarity based recommandation system.
 Also it includes some graphical analysis for better understanding of data.
-It is a ## Item similarity based recommandation system.
+
 
