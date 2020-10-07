@@ -1,6 +1,6 @@
 ## MOvie Recommandation 
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40tomar.ankur287%2Fitem-item-collaborative-filtering-recommender-system-in-python-cf3c945fae1e&psig=AOvVaw3WR2zn2F_Si-cQXMydvbQC&ust=1602191407076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj_4_eyo-wCFQAAAAAdAAAAABAK" alt="Coder GIF" width="400" height="300">
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2FGirishKhanzode%2Frecommender-systems-52218083&psig=AOvVaw3WR2zn2F_Si-cQXMydvbQC&ust=1602191407076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj_4_eyo-wCFQAAAAAdAAAAABAQ" alt="Coder GIF" width="400" height="300">
 
 Recommandation system is used by almost every service based company.
 it uses the data of review that is given to the perticular movie and no.of reviews matter here as well.
